@@ -1,3 +1,0 @@
-# Bikeshare project
-
-#blablabla
